@@ -7,8 +7,8 @@
   ol, ul { 
      list-style-type: none;
       }
-  body {  
-    background-color: #faf2e4;
+  body {
+    background-color: #FFF6F9;
     margin: 0 10%;
     font-family: sans-serif;
   }
@@ -22,7 +22,7 @@
   }
 
   h2 {
-    color: #d1633c;
+    color: #ff9fc7;
     font-size: 1em;
   }
   p.disclaimer { 
