@@ -1,0 +1,81 @@
+body {
+    background-color: #FFFCFD;
+    margin: 0 10%;
+    font-family: sans-serif;
+    background: #FFFCFD url(images/blackgoose.png) no-repeat center 100px fixed;
+
+}
+
+nav ul {
+  font-size: 23px;
+  list-style: none;
+  margin: 0 2px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid rgb(255, 133, 180);
+  padding-bottom: 24px;
+}
+
+a:link { color: #83A56B; }
+a:visited { color: #254111; }
+a:hover { color: #7DA363; background-color: #fff; }
+a:active { color: #7DA363; background-color: #fff; }
+
+h1 {
+    font-size: 37px;
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgb(255, 133, 180);
+    margin-top: 30px;
+    padding-bottom: 24px;
+}
+
+h2 {
+    color: #F170A6;
+    font-size: 1em;
+    letter-spacing: 1px;
+    padding-top: 24px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+
+}
+
+p {
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 24px;
+    
+}
+
+#one {
+    text-align: center;
+    
+
+}
+
+#two {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+#three {
+    text-align: center;
+    font-size: 12px;
+    line-height: 18px;
+    padding-bottom: 8px;
+
+}
+
+#images {
+    text-align: center;
+}
