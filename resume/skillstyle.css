@@ -1,0 +1,58 @@
+body {
+    background-color: #FFF3FA;
+    margin: 2em 5%;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background: no-repeat fixed center #FFF3FA;
+    background-image: url('images/hellokitty.png');
+    background-size: 850px;
+
+}
+
+nav ul {
+  font-size: 30px;
+  list-style: none;
+  margin: 0 2px;
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: 1px solid #F9C700;
+  border-top: 1px solid #F9C700;
+  padding-bottom: 24px;
+  padding-top: 24px;
+}
+
+a:link { color: #83BAFF; }
+a:visited { color: #A366FF; }
+a:hover { color: #FF0077; background-color: #fff; }
+a:active { color: #006AFF; background-color: #fff; }
+
+h1, h2, h3 { 
+    color:#F973C6;
+}
+
+h1 {
+   text-align: center;
+   font-size: 50px;
+}
+
+h2 {
+   font-size: 40px;
+   line-height: 0.6;
+   padding-top: 18px;
+   text-decoration-line: underline;
+   text-align: center;
+}
+
+p {
+   text-align: center;
+}
+
+ul {
+   text-align: center;
+   list-style-position: inside;
+}
+
+#copy {
+    text-align: center;
+
+}
